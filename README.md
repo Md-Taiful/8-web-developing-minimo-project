@@ -1,1 +1,1 @@
-# 8-web-developing-minimo-project
+# 8-web-developing-project
